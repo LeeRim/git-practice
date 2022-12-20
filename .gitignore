@@ -1,0 +1,7 @@
+### intelliJ ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+secrets.yaml
